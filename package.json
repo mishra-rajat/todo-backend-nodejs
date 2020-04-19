@@ -1,0 +1,15 @@
+{
+  "name": "todo-backend-nodejs",
+  "version": "1.0.0",
+  "description": "Apis for todo frontend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajat Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.0.2"
+  }
+}
